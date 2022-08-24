@@ -8,7 +8,7 @@ In this model, we will build a complete end-to-end model training process and fi
 
 ## About the data
 
-The data for this model can be found [**here**](https://link-url-here.org). This dataset contains the real bank transactions made by European cardholders in the year 2013. As a security concern, the actual variables are not being shared but — they have been transformed versions of PCA. As a result, we can find 29 feature columns and 1 final class column.
+The data for this model can be found [**here**](https://www.kaggle.com/mlg-ulb/creditcardfraud). This dataset contains the real bank transactions made by European cardholders in the year 2013. As a security concern, the actual variables are not being shared but — they have been transformed versions of PCA. As a result, we can find 29 feature columns and 1 final class column.
 
 ## :camera: Screenshots
 
